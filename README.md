@@ -1,4 +1,5 @@
-📚 Biblioteca — Grupo 6
+##📚 Biblioteca — Grupo 6
+
 Atividade prática da disciplina de Banco de Dados, com foco em modelagem conceitual, lógica e física de um sistema de empréstimo de livros.
 
 Sobre o projeto
